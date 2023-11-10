@@ -22,4 +22,4 @@ ___
 + Using other model selection parameters such as auc-roc curve to determine best model.
 ___
 
-[Link](https://nodeca.github.io/pica/demo/](https://www.kaggle.com/datasets/christianlillelund/csgo-round-winner-classification)https://www.kaggle.com/datasets/christianlillelund/csgo-round-winner-classification) to the kaggle dataset used.
+[Link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbktfSlVGR3NyZXFkMFZHaERyWUZVaVg1R3NvUXxBQ3Jtc0tta0c5WFNUMkNVV2hFSFhZVmdBUHhtZHdsbVUyTFI0aDlFRG4wSFBYLVM4UnlrUUdCMlJiTE1ocTVWTm1sVDAtSUhseTk3ZWNwSlJVZVEzSzkxckcwS2hhckRLRk16QW5jZHE2NnJMRWZ2NG9OcWxfcw&q=https%3A%2F%2Fwww.kaggle.com%2Fchristianlillelund%2Fcsgo-round-winner-classification&v=DAS0M0Q2Jn8) to the kaggle dataset used.
